@@ -1,0 +1,16 @@
+[
+    {
+        "tipo": "DispositivoEcologico",
+        "nombre": "Compostera doméstica",
+        "precio": 45000,
+        "stock": 12
+    },
+    {
+        "tipo": "PanelSolar",
+        "nombre": "Panel monocristalino 450W",
+        "precio": 180000,
+        "stock": 8,
+        "potencia_pico_w": 450,
+        "eficiencia_porcentaje": 21.5
+    }
+]
